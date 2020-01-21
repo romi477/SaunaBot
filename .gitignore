@@ -2,4 +2,5 @@
 venv/
 draft.py
 *.txt
+*.pyc
 
